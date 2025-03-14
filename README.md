@@ -12,7 +12,7 @@
 # Ejercicios Sensores KY y MQ
 |**Numero**|**Nombre**|**Video**|**Diagrama**|
 |--|--|--|--|
-|**1**|KY-001|[![Ver video](https://drive.google.com/file/d/1MziDmz6ZgbXWykrG8JuLXFy6uECQCp4H/view?usp=drive_link)](https://drive.google.com/file/d/1MziDmz6ZgbXWykrG8JuLXFy6uECQCp4H/view?usp=drive_link)|<img src="Diagramas/KY-001.png" width="400"/>|
+|**1**|KY-001|https://drive.google.com/file/d/1MziDmz6ZgbXWykrG8JuLXFy6uECQCp4H/view?usp=drive_link|<img src="Diagramas/KY-001.png" width="400"/>|
 |**2**|KY-002|https://drive.google.com/file/d/18AHN1_UffRVqYxYzjGqju6kamOQBQlE6/view?usp=drive_link|<img src="Diagramas/KY-002.png" width="400"/>|
 |**3**|KY-003|https://drive.google.com/file/d/1S7QXTrKFxg2GjcT2m0PQYYAail7S1ScZ/view?usp=drive_link|<img src="Diagramas/KY-003.png" width="400"/>|
 |**4**|KY-004|https://drive.google.com/file/d/1XlEke5Sngk_-3q2F6nAyvgOhr0mnRSPC/view?usp=drive_link|<img src="Diagramas/KY-004.png" width="400"/>|
