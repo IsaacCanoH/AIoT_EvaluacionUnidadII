@@ -10,6 +10,7 @@
 |**Prueba Final**|<img src="CursoCisco/ModuloFinal.png" width="600"/>|
 
 # Ejercicios Sensores KY y MQ
+|Tipo|Codigo|
 |--|--|
 |**Flujos NodeRed**|[`flows.json`](/flujos/flow.json)|
 
