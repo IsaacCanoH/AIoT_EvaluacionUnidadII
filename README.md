@@ -10,6 +10,10 @@
 |**Prueba Final**|<img src="CursoCisco/ModuloFinal.png" width="600"/>|
 
 # Ejercicios Sensores KY y MQ
+|Tipo|Codigo|
+|--|--|
+|**Flujos NodeRed**|[`flows.json`](/flujos/flow.json)|
+
 |**Numero**|**Nombre**|**Video**|**Diagrama**|
 |--|--|--|--|
 |**1**|KY-001|https://drive.google.com/file/d/1MziDmz6ZgbXWykrG8JuLXFy6uECQCp4H/view?usp=drive_link|<img src="Diagramas/KY-001.png" width="400"/>|
@@ -53,4 +57,4 @@
 |**40**|MQ-7|https://drive.google.com/file/d/1Rnq-xlkseaFPmPpAPj07CUe1-vk3RXRI/view?usp=drive_link|<img src="Diagramas/mq-7.png" width="400"/>|
 |**41**|MQ-9|https://drive.google.com/file/d/1TAWFpX7UvLKu4a0CZQUq-zS5Yw6vgXWZ/view?usp=drive_link|<img src="Diagramas/mq-9.png" width="400"/>|
 |**42**|MQ-135|https://drive.google.com/file/d/13tzLxt9vuJCL4PRGfortvpwi5qUV7oA1/view?usp=drive_link|<img src="Diagramas/mq-135.png" width="400"/>|
-|**43**|PWM|https://drive.google.com/file/d/1ytruPYxt0guyu9Oy80jNcHqarrBndjq2/view?usp=drive_link||
+|**43**|PWM|https://drive.google.com/file/d/1ytruPYxt0guyu9Oy80jNcHqarrBndjq2/view?usp=drive_link|<img src="Diagramas/PWM.jpeg" width="400"/>|
