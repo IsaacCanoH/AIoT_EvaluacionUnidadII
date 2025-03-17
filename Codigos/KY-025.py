@@ -11,7 +11,7 @@ WIFI_PASSWORD = "12345678"
 MQTT_CLIENT_ID = "esp32_ky025"
 MQTT_BROKER = "broker.emqx.io"
 MQTT_PORT = 1883
-MQTT_TOPIC = "gds0653/ky-024"
+MQTT_TOPIC = "gds0653/ky-025"
 
 # Configuración del sensor KY-025 (Solo Digital)
 reed_switch = Pin(34, Pin.IN)  # Salida digital del sensor
